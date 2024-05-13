@@ -15,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/B2/B2.iml" filepath="$PROJECT_DIR$/B2/B2.iml" />
       <module fileurl="file://$PROJECT_DIR$/B2105/B2105.iml" filepath="$PROJECT_DIR$/B2105/B2105.iml" />
       <module fileurl="file://$PROJECT_DIR$/B3/B3.iml" filepath="$PROJECT_DIR$/B3/B3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B994/B994.iml" filepath="$PROJECT_DIR$/B994/B994.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C1553/C1553.iml" filepath="$PROJECT_DIR$/C1553/C1553.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
     </modules>
   </component>
